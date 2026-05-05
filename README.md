@@ -34,7 +34,8 @@ You can click the Preview link to take a look at your changes.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-00609C?style=for-the-badge&logo=xml&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Terminal](https://img.shields.io/badge/terminal?logo=terminal)
+![Static Badge](https://img.shields.io/badge/terminal?logo=%F0%9F%96%A5%EF%B8%8F)
+
 
 <!---![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)--->
 <!---![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)--->
