@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 # 💻 Tech Stack:
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=CSS+HTML;Java+%E2%98%95%EF%B8%8F;Markdown;Python;PostgresSQ;JavaScript;VirtualBox;Linux+Ubuntu+Windws;Cisco;MongoDB;MySQL;SQL;XML+XPath;C++;Terminal" alt="Tecnologías que uso">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=CSS+HTML;Java;Markdown;Python;PostgresSQ;JavaScript;VirtualBox;Linux+Ubuntu+Windws;Cisco;MongoDB;MySQL;SQL;XML+XPath;C++;Terminal" alt="Tecnologías que uso">
 </p>
 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
