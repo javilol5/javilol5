@@ -37,3 +37,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <br>
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
