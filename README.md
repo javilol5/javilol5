@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 # 💻 Tech Stack:
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=CSS+%F0%9F%92%84+HTML+%F0%9F%8E%A8;JavaScript+%F0%9F%8D%AD;Java+%E2%98%95%EF%B8%8F;SQL+%F0%9F%93%88;XML+XPath+%F0%9F%93%97;Terminal+%F0%9F%96%A5%EF%B8%8F;Linux+%F0%9F%90%A7" alt="Tecnologías que uso">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=CSS+%F0%9F%92%84+HTML+%F0%9F%8E%A8;JavaScript+%F0%9F%8D%AD;Java+%E2%98%95%EF%B8%8F;SQL+%F0%9F%93%88;XML+XPath+%F0%9F%93%97;Terminal+%F0%9F%96%A5%EF%B8%8F;Linux+%F0%9F%90%A7" alt="Tecnologías que uso">
 </p>
 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
