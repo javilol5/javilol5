@@ -35,6 +35,9 @@ You can click the Preview link to take a look at your changes.
 ![XML](https://img.shields.io/badge/XML-00609C?style=for-the-badge&logo=xml&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
+
 <!---![Static Badge](https://img.shields.io/badge/terminal?logo=%F0%9F%96%A5%EF%B8%8F)--->
 
 
