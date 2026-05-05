@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 # 💻 Tech Stack:
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=CSS+HTML;Java+%E2%98%95%EF%B8%8F;Markdown;Python;PostgresSQ;JavaScript;VirtualBox;Linux;Cisco;MongoDB;MySQL;SQL;XML+XPath;C++;Terminal" alt="Tecnologías que uso">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=CSS+HTML;Java+%E2%98%95%EF%B8%8F;Markdown;Python;PostgresSQ;JavaScript;VirtualBox;Linux + Ubuntu + Windws;Cisco;MongoDB;MySQL;SQL;XML+XPath;C++;Terminal" alt="Tecnologías que uso">
 </p>
 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,8 +35,8 @@ You can click the Preview link to take a look at your changes.
 ![XML](https://img.shields.io/badge/XML-00609C?style=for-the-badge&logo=xml&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <!---![Static Badge](https://img.shields.io/badge/terminal?logo=%F0%9F%96%A5%EF%B8%8F)--->
 
