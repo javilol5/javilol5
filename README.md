@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 ## Developer skilled in software and systems management from Spain.
 
 
-<br><br>
+<br>
 
 
 ![mario-working](https://github.com/user-attachments/assets/64f5835c-976c-45e2-986f-f395ec5ceee9)
@@ -37,17 +37,43 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 <!---![Static Badge](https://img.shields.io/badge/terminal?logo=%F0%9F%96%A5%EF%B8%8F)--->
-
-
 <!---![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)--->
 <!---![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)--->
 <!---![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)--->
 
 
 <br>
+<br>
+
+# 🧑‍💻 About Me
+
+🎓 **Education & Training**
+
+- **SMR — Microcomputer Systems and Networks**  
+  🏫 IES Teis
+
+- **DAM — Cross-Platform Application Development**  
+  🏫 Centro de Formación Profesional Daniel Castelao
+
+---
+
+## 🚀 Personal Profile
+
+- 🏋️ Very athletic and sports-active  
+- 💻 Tech-savvy and passionate about technology  
+- 📚 Constantly learning and improving new skills
 
 
+<br>
+<br>
+
+## 📌 GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/javilol5)
+<br>
+<br>
+
+# 📝 Quote of the day:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
