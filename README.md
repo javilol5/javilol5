@@ -62,7 +62,16 @@ You can click the Preview link to take a look at your changes.
 
 - 🏋️ Very athletic and sports-active  
 - 💻 Tech-savvy and passionate about technology  
-- 📚 Constantly learning and improving new skills
+- 📚 Constantly learning and improving new skills  
+
+---
+
+## 🌍 Languages
+
+-    Galician — Native
+- 🇪🇸 Spanish — Native  
+- 🇬🇧 English — C2  
+- 🇫🇷 French — Basic
 
 
 <br>
