@@ -77,6 +77,15 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
+## GitHub Stats
+
+![Javilol5's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=javilol5&show_icons=true&theme=radical)
+![Javilol5's Stats](https://github-readme-streak-stats.herokuapp.com/?user=javilol5&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=javilol5&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ## 📌 GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/javilol5)
