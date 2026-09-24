@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 <!---![Static Badge](https://img.shields.io/badge/terminal?logo=%F0%9F%96%A5%EF%B8%8F)--->
 <!---![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)--->
 <!---![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)--->
+![](https://www.codewars.com/users/casal/badges/large)
 
 
 <br>
