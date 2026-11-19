@@ -76,8 +76,10 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=javilol5&theme=radical" width="56%">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=javilol5&layout=compact&theme=radical" width="40%">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=javilol5&show_icons=true&theme=radical" width="56%">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=javilol5&layout=compact&theme=radical" width="43%">
+ <br>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=javilol5&theme=radical" width="50%">
 </div>
 
 ## 📌 GitHub Activity
