@@ -88,6 +88,39 @@
 <br>
 <br>
 
+
+<details open>
+  <summary><h2>📘 My Top Projects</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/javilol5/coffe">
+      <img width="278" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=javilol5&repo=coffe&theme=dark" alt="coffe">
+    </a>
+    <a href="https://github.com/javilol5/casino-backend">
+      <img width="278" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=javilol5&repo=casino-backend&theme=dark" alt="casino-backend">
+    </a>
+    <a href="https://github.com/javilol5/countdown">
+      <img width="278" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=javilol5&repo=countdown&theme=dark" alt="countdown">
+    </a>
+    <a href="https://github.com/javilol5/gacha">
+      <img width="278" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=javilol5&repo=gacha&theme=dark" alt="gacha">
+    </a>
+    <a href="https://github.com/javilol5/pygame">
+      <img width="278" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=javilol5&repo=pygame&theme=dark" alt="pygame">
+    </a>
+    <a href="https://github.com/javilol5/crawler">
+      <img width="278" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=javilol5&repo=crawler&theme=dark" alt="crawler">
+    </a>
+    <a href="https://github.com/javilol5/piedra-papel-tijera">
+      <img width="278" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=javilol5&repo=piedra-papel-tijera&theme=dark" alt="piedra-papel-tijera">
+    </a>
+  </p>
+
+  <a href="https://github.com/javilol5?tab=repositories">
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-View%20All%20Repositories-212121?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</details>
+
 # 📝 Quote of the day:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
