@@ -1,7 +1,3 @@
-<!---
-javilol5/javilol5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # `Hello, I'm Casal😎`
  
 
@@ -78,12 +74,11 @@ You can click the Preview link to take a look at your changes.
 
 ## GitHub Stats
 
-![Javilol5's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=javilol5&show_icons=true&theme=radical)
-![Javilol5's Stats](https://streak-stats.demolab.com/?user=javilol5&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=javilol5&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=javilol5&theme=radical" width="56%">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=javilol5&layout=compact&theme=radical" width="40%">
+</div>
 
 ## 📌 GitHub Activity
 
